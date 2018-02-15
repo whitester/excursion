@@ -10,9 +10,8 @@ h1 {
 
 }
 
-h2 {
+#link {
     color:aquamarine;
     font-family: Verdana;
     font-size: 16px;
-    text-decoration-line: inherit;
 }
